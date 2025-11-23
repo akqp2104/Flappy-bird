@@ -1,7 +1,6 @@
 # Flappy Bird (Unity Recreation)
 
 A playful Flappy Bird clone made in Unity, created for fun and learning. Track your score, beat your high score, and enjoy infinite pipe challenges!
-[Project URL](https://github.com/akqp2104/Flappy-bird)
 
 ## Features 🐦
 
